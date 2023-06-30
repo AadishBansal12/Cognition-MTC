@@ -1,0 +1,49 @@
+.contact-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.contact-info {
+  margin-top: 30px;
+}
+
+.contact-info h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.contact-info a {
+  display: block;
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.social-accounts {
+  margin-top: 30px;
+}
+
+.social-accounts h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.social-accounts a {
+  display: block;
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 5px;
+}
